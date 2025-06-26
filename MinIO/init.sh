@@ -1,0 +1,1 @@
+sudo docker run -p 9000:9000 -p 9001:9001 --env-file .env -v ~/minio/data:/data -d --restart unless-stopped --name minio minio/minio server /data --console-address ":9001"
