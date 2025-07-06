@@ -10,9 +10,10 @@ This repository, **toolbox**, is a collection of reusable tools, scripts, and re
 
 ## Current Contents
 
-- **MinIO/**: Example scripts for initializing and running MinIO (S3-compatible object storage).
-- **MongoDB/**: Example scripts for initializing and running MongoDB.
-- **PostgreSQL/**: Example scripts for initializing and running PostgreSQL.
+- **DynamoDB/**: Scripts for initializing and running DynamoDB (NoSQL database service).
+- **MinIO/**: Scripts for initializing and running MinIO (S3-compatible object storage).
+- **MongoDB/**: Scripts for initializing and running MongoDB.
+- **PostgreSQL/**: Scripts for initializing and running PostgreSQL.
 - **Scripts/**: Reserved for additional general-purpose scripts and utilities.
 
 > **toolbox** is not limited to databases—add any tool, script, or resource that can be reused across projects and devices!
